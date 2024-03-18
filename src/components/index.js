@@ -3,12 +3,10 @@ import { StyleSheet, Text, View, } from 'react-native';
 
 
 
-export default function E() {
+export default function Eduardo() {
   return (
     <View style={styles.container}>
-      <Text>Eduardo</Text>
-      <Text>Kaue</Text>
-      <Text>Clone do projeto aula 18-03-2024 lado A</Text>
+      <Text>Eduardo Miguel De Jesus Silva</Text>
       <StatusBar style="auto" />
     </View>
   );

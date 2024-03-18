@@ -3,12 +3,10 @@ import { StyleSheet, Text, View, } from 'react-native';
 
 
 
-export default function E() {
+export default function Kaue() {
   return (
     <View style={styles.container}>
-      <Text>Eduardo</Text>
-      <Text>Kaue</Text>
-      <Text>Clone do projeto aula 18-03-2024 lado A</Text>
+      <Text>Kaue Fernando Maturo De Souza</Text>
       <StatusBar style="auto" />
     </View>
   );
@@ -22,3 +20,4 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
 });
+ 
